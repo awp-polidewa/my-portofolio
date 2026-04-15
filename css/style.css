@@ -305,6 +305,7 @@ body {
 @media screen and (max-width: 576px) {
   .home {
     flex-direction: column;
+    justify-content: center;
   }
 
   .home-content {
